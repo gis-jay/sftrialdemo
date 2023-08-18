@@ -1,0 +1,35 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.container {
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+}
+
+.mapContainer {
+    background-color: rgb(204, 219, 255);
+    position: relative;
+    left:0;
+    top:0;
+    width:100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.dataGridContainer {
+    position: relative;
+    left:0;
+    top:0;
+    width:100%;
+    height: 100%;
+    overflow: hidden;
+}
